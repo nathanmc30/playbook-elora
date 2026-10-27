@@ -212,17 +212,10 @@ Por quê: Avaliação agendada recebe de volta quem faltou e remarcou. E perda s
 
 ## Nunca (a linha vermelha)
 
-1. Avaliação "gratuita", "sem custo" ou "sem compromisso" (Código de Ética proíbe).
-2. Foto de outro paciente ou antes e depois (vedado e expõe o paciente).
-3. Prometer resultado, prazo garantido, "não dói" ou "dente no mesmo dia" (só o dentista avalia).
-4. Dizer o que o paciente tem ou indicar remédio (diagnóstico é do dentista).
-5. Criticar outro dentista ou clínica (Código de Ética proíbe).
-6. Inventar pressa ou falta de vaga: "só hoje", "últimas vagas" (engana e quebra a confiança).
-7. Se aproveitar da fraqueza do paciente (dor, idade, saúde) para empurrar tratamento (prática abusiva, CDC art. 39, IV).
-8. Disparo em massa, lista comprada ou mensagem a quem nunca falou com a clínica (vedado e bloqueia o WhatsApp).
-9. Prêmio, brinde ou desconto por indicação (Código de Ética proíbe).
-10. Preço, parcelamento ou gratuidade em status, post ou anúncio (Código de Ética proíbe).
-
+1. Prometer resultado, prazo garantido, "não dói" ou "dente no mesmo dia" (só o dentista avalia).
+2. Dizer o que o paciente tem ou indicar remédio (diagnóstico é do dentista).
+3. Criticar outro dentista ou clínica (Código de Ética proíbe).
+4. Disparo em massa, lista comprada ou mensagem a quem nunca falou com a clínica (vedado e bloqueia o WhatsApp).
 
 ## Próximo passo
 
