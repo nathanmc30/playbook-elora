@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Playbook do SDR · ELORA</title>
+  <link rel="stylesheet" href="assets/estilo.css">
+</head>
+<body>
+  <header class="topo">
+    <button class="menu" type="button" aria-controls="lateral" aria-expanded="false">Menu</button>
+    <a class="marca" href="#/inicio">Playbook do SDR <span>· ELORA</span></a>
+  </header>
+  <div class="corpo">
+    <nav id="lateral" class="lateral" aria-label="Passos do playbook">
+      <label class="busca">
+        <span class="sr">Buscar</span>
+        <input id="busca" type="search" placeholder="Buscar situação, ex.: está caro" autocomplete="off">
+      </label>
+      <ol id="resultados" class="resultados" hidden></ol>
+      <ol id="paginas" class="paginas"></ol>
+    </nav>
+    <main id="conteudo" class="conteudo" tabindex="-1">
+      <div class="barra">
+        <a id="editar" class="editar" href="#" target="_blank" rel="noopener">Editar esta página</a>
+      </div>
+      <article id="texto" class="texto"><p class="carregando">Carregando…</p></article>
+      <nav id="vizinhos" class="vizinhos" aria-label="Passo anterior e próximo"></nav>
+    </main>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
